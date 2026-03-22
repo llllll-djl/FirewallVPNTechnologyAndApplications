@@ -83,7 +83,7 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 
 **嵌入截图：**
 
-请求图截图![alt text](image.png)
+请求图截图![alt text](req.png)
 ---
 
 
@@ -98,7 +98,7 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 
 **嵌入截图：**
 
-响应头截图![alt text](image-1.png)
+响应头截图![alt text](resp.png)
 
 ---
 
